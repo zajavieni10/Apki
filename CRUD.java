@@ -13,6 +13,12 @@ public class CRUD {
 	    	insertDB("Gwiazd naszych wina", "2014","Josh Boone","http://www.filmweb.pl/film/Gwiazd+naszych+wina-2014-681825", "1");
 	    	insertDB("Wladca Pierscieni: Powrot krola", "2003","Peter Jackson","http://www.filmweb.pl/Powrot.Krola", "3");
 	    	insertDB("Faceci w czerni", "1997","Barry Sonnenfeld","http://www.filmweb.pl/film/Faceci+w+czerni-1997-5507", "4");
+	    	
+	    	//Ola K.
+	    	insertDB("Pamietnik", "2004", "Nick Cassavetes", "http://www.filmweb.pl/Pamietnik", "1");
+	    	insertDB("Wielki Gatsby", "2013", "Baz Luhrmann", "http://www.filmweb.pl/film/Wielki+Gatsby-2013-506934", "2");
+	    	insertDB("Gran Torino", "2008", "Clint Eastwood", "http://www.filmweb.pl/film/Gran+Torino-2008-476580", "3");
+	    	insertDB("Grand Budapest Hotel", "2014", "Wes Anderson", "http://www.filmweb.pl/film/Grand+Budapest+Hotel-2014-661817", "4");
 	    
 	    
 
