@@ -20,7 +20,13 @@ public class CRUD {
 	    	insertDB("Gran Torino", "2008", "Clint Eastwood", "http://www.filmweb.pl/film/Gran+Torino-2008-476580", "3");
 	    	insertDB("Grand Budapest Hotel", "2014", "Wes Anderson", "http://www.filmweb.pl/film/Grand+Budapest+Hotel-2014-661817", "4");
 	    
-	    
+	    	
+		//K.Kawula
+		insertDB("Nie opuszczaj mnie", "2010", "Mark Romanek", "http://www.filmweb.pl/film/Nie+opuszczaj+mnie-2010-502884", "1");
+	    	insertDB("To nie tak jak myslisz kotku", "2008", "Sławomir Kryński,", "http://www.filmweb.pl/film/To+nie+tak+jak+my%C5%9Blisz%2C+kotku-2008-475684", "2");
+	    	insertDB("Życie jest piękne", "1997", "Roberto Benini", "http://www.filmweb.pl/Zycie.Jest.Piekne", "3");
+	    	insertDB("Co się wydarzyło w Madison County", "1995", "Clint Eastwood", "http://www.filmweb.pl/film/Co+si%C4%99+wydarzy%C5%82o+w+Madison+County-1995-641", "4");
+
 
 	  }
 		static String dbURL = "jdbc:mysql://mysql.agh.edu.pl:3306/aguzy";
