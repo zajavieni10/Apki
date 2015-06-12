@@ -10,9 +10,9 @@ public class CRUD {
 		
 		//Ania G.
 		insertDB("Shrek", "2001","Andrew Adamson","http://www.filmweb.pl/Shrek", "2");
-	    insertDB("Gwiazd naszych wina", "2014","Josh Boone","http://www.filmweb.pl/film/Gwiazd+naszych+wina-2014-681825", "1");
-	    insertDB("Wladca Pierscieni: Powrot krola", "2003","Peter Jackson","http://www.filmweb.pl/Powrot.Krola", "3");
-	    insertDB("Faceci w czerni", "1997","Barry Sonnenfeld","http://www.filmweb.pl/film/Faceci+w+czerni-1997-5507", "4");
+	    	insertDB("Gwiazd naszych wina", "2014","Josh Boone","http://www.filmweb.pl/film/Gwiazd+naszych+wina-2014-681825", "1");
+	    	insertDB("Wladca Pierscieni: Powrot krola", "2003","Peter Jackson","http://www.filmweb.pl/Powrot.Krola", "3");
+	    	insertDB("Faceci w czerni", "1997","Barry Sonnenfeld","http://www.filmweb.pl/film/Faceci+w+czerni-1997-5507", "4");
 	    
 	    
 
