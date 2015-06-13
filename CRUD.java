@@ -28,10 +28,10 @@ public class CRUD {
 	    	insertDB("Co się wydarzyło w Madison County", "1995", "Clint Eastwood", "http://www.filmweb.pl/film/Co+si%C4%99+wydarzy%C5%82o+w+Madison+County-1995-641", "4");
 		
 		//VGolebiewska
-		insertDB("Godziny-Wycig z czasem","2013", "Eric Heisserer", "http://www.filmweb.pl/film/Godziny+-+Wy%C5%9Bcig+z+czasem-2013-638157", "1");
+		insertDB("Godziny-Wyscig z czasem","2013", "Eric Heisserer", "http://www.filmweb.pl/film/Godziny+-+Wy%C5%9Bcig+z+czasem-2013-638157", "1");
 		insertDB("Mamma mia", "2008", "Phyllida Lloyd", "http://www.filmweb.pl/film/Mamma+Mia%21-2008-375547#", "2");
 		insertDB("Chappie", "2015", "Neill Blomkamp", "http://www.filmweb.pl/film/Chappie-2015-612189", "3");
-		insertDB("Podziemny krg", "1999", "David Fincher", "http://www.filmweb.pl/Podziemny.Krag", "4");
+		insertDB("Podziemny krag", "1999", "David Fincher", "http://www.filmweb.pl/Podziemny.Krag", "4");
 
 	  }
 		static String dbURL = "jdbc:mysql://mysql.agh.edu.pl:3306/aguzy";
