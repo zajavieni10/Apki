@@ -50,6 +50,12 @@ public class CRUD {
 		insertDB("Jak zostać królem", "2010","Tom Hooper", "http://www.filmweb.pl/film/Jak+zosta%C4%87+kr%C3%B3lem-2010-539270#", "2");
 		insertDB("Jak stracić chłopaka w 10 dni", "2003", "Donald Petrie", "http://www.filmweb.pl/film/Jak+straci%C4%87+ch%C5%82opaka+w+10+dni-2003-38301", "3");
 		insertDB("Piraci z Karaibów: Na krańcu świata", "2007", "Gore Verbinski", "http://www.filmweb.pl/Na.Krancu.Swiata.Piraci.Z.Karaibow", "4");
+	 
+		 //Aga G.
+	    	insertDB("PS. I love you", "2007","Richard LaGravenese", "http://www.filmweb.pl/Ps.Kocham.Cie", "1");
+		insertDB("Siedem dusz", "2008","Gabriele Muccino", "http://www.filmweb.pl/film/Siedem+dusz-2008-459974", "2");
+		insertDB("Bogowie", "2014", "Łukasz Palkowski", "http://www.filmweb.pl/film/Bogowie-2014-694378", "3");
+		insertDB("Dear John", "2010", "Lasse Hallström", "http://www.filmweb.pl/film/Wci%C4%85%C5%BC+j%C4%85+kocham-2010-481963", "4");
 	  }
 		static String dbURL = "jdbc:mysql://mysql.agh.edu.pl:3306/aguzy";
 		static String username = "aguzy";
