@@ -38,6 +38,12 @@ public class CRUD {
 	    	insertDB("Zapach kobiety", "1992","Martin Brest", "http://www.filmweb.pl/Zapach.Kobiety", "2");
 	    	insertDB("Once", "2006", "John Carney", "http://www.filmweb.pl/Once", "3");
 	    	insertDB("Leon zawodowiec", "1994", "Luc Besson", "http://www.filmweb.pl/Leon.Zawodowiec", "4");
+	    	
+	    	//D.Dobrowolski
+	    	insertDB("Poradnik pozytywnego myslenia", "2012","David O. Russel", "http://www.filmweb.pl/film/Poradnik+pozytywnego+my%C5%9Blenia-2012-506803", "1");
+	    	insertDB("Nietykalni", "2011","Olivier Nakache, Eric Toledano", "http://www.filmweb.pl/film/Nietykalni-2011-583390", "2");
+	    	insertDB("Wszystko o Ewie", "1950", "Joseph L. Mankiewicz", "http://www.filmweb.pl/film/Wszystko+o+Ewie-1950-31277", "3");
+	    	insertDB("Casino Royale", "2006", "Martin Campbell", "http://www.filmweb.pl/Casino.Royale#", "4");
 	  }
 		static String dbURL = "jdbc:mysql://mysql.agh.edu.pl:3306/aguzy";
 		static String username = "aguzy";
