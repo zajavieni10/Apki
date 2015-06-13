@@ -26,13 +26,12 @@ public class CRUD {
 	    	insertDB("To nie tak jak myslisz kotku", "2008", "Sławomir Kryński,", "http://www.filmweb.pl/film/To+nie+tak+jak+my%C5%9Blisz%2C+kotku-2008-475684", "2");
 	    	insertDB("Życie jest piękne", "1997", "Roberto Benini", "http://www.filmweb.pl/Zycie.Jest.Piekne", "3");
 	    	insertDB("Co się wydarzyło w Madison County", "1995", "Clint Eastwood", "http://www.filmweb.pl/film/Co+si%C4%99+wydarzy%C5%82o+w+Madison+County-1995-641", "4");
-		
-		//VGolebiewska
-		insertDB("Godziny-Wyscig z czasem","2013", "Eric Heisserer", "http://www.filmweb.pl/film/Godziny+-+Wy%C5%9Bcig+z+czasem-2013-638157", "1");
-		insertDB("Mamma mia", "2008", "Phyllida Lloyd", "http://www.filmweb.pl/film/Mamma+Mia%21-2008-375547#", "2");
-		insertDB("Chappie", "2015", "Neill Blomkamp", "http://www.filmweb.pl/film/Chappie-2015-612189", "3");
-		insertDB("Podziemny krag", "1999", "David Fincher", "http://www.filmweb.pl/Podziemny.Krag", "4");
 
+		//Magda P.
+		insertDB("Control", "2007","Anton Corbijn", "http://www.filmweb.pl/Control", "1");
+	    	insertDB("Zapach kobiety", "1992","Martin Brest", "http://www.filmweb.pl/Zapach.Kobiety", "2");
+	    	insertDB("Once", "2006", "John Carney", "http://www.filmweb.pl/Once", "3");
+	    	insertDB("Leon zawodowiec", "1994", "Luc Besson", "http://www.filmweb.pl/Leon.Zawodowiec", "4");
 	  }
 		static String dbURL = "jdbc:mysql://mysql.agh.edu.pl:3306/aguzy";
 		static String username = "aguzy";
