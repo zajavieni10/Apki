@@ -56,6 +56,12 @@ public class CRUD {
 		insertDB("Siedem dusz", "2008","Gabriele Muccino", "http://www.filmweb.pl/film/Siedem+dusz-2008-459974", "2");
 		insertDB("Bogowie", "2014", "Łukasz Palkowski", "http://www.filmweb.pl/film/Bogowie-2014-694378", "3");
 		insertDB("Dear John", "2010", "Lasse Hallström", "http://www.filmweb.pl/film/Wci%C4%85%C5%BC+j%C4%85+kocham-2010-481963", "4");
+		
+		// Mateusz P
+		insertDB("Ludzka stonoga", "2009","Tom Six", "http://www.filmweb.pl/film/Ludzka+stonoga-2009-542284", "4");
+		insertDB("Wiezień labiryntu", "2014","Wes Ball", "http://www.filmweb.pl/film/Wi%C4%99zie%C5%84+labiryntu-2014-609757", "3");
+		insertDB("Panaceum", "2013","Steven Soderbergh", "http://www.filmweb.pl/film/Panaceum-2013-635084", "1");
+		insertDB("Percy Jackson i Bogowie Olimpijscy: Zlodziej pioruna", "2010", "Chris Columbus", "http://www.filmweb.pl/film/Percy+Jackson+i+Bogowie+Olimpijscy%3A+Z%C5%82odziej+Pioruna-2010-453210", "2");
 	  }
 		static String dbURL = "jdbc:mysql://mysql.agh.edu.pl:3306/aguzy";
 		static String username = "aguzy";
