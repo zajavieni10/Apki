@@ -62,6 +62,12 @@ public class CRUD {
 		insertDB("Wiezień labiryntu", "2014","Wes Ball", "http://www.filmweb.pl/film/Wi%C4%99zie%C5%84+labiryntu-2014-609757", "3");
 		insertDB("Panaceum", "2013","Steven Soderbergh", "http://www.filmweb.pl/film/Panaceum-2013-635084", "1");
 		insertDB("Percy Jackson i Bogowie Olimpijscy: Zlodziej pioruna", "2010", "Chris Columbus", "http://www.filmweb.pl/film/Percy+Jackson+i+Bogowie+Olimpijscy%3A+Z%C5%82odziej+Pioruna-2010-453210", "2");
+		
+		//Ania K.
+      		insertDB("Źródło", "2006", "Darren Aronofsky", "http://www.filmweb.pl/Zrodlo", "1");
+      		insertDB("Marley i ja", "2008", "David Frankel", "http://www.filmweb.pl/film/Marley+i+Ja-2008-411302", "2");
+      		insertDB("Dzika droga", "2014", "Jean-Marc Vallée", "http://www.filmweb.pl/film/Dzika+droga-2014-694545", "3");
+      		insertDB("Czas na miłość", "2013", "Richard Curtis", "http://www.filmweb.pl/film/Czas+na+mi%C5%82o%C5%9B%C4%87-2013-644432#", "4");
 	  }
 		static String dbURL = "jdbc:mysql://mysql.agh.edu.pl:3306/aguzy";
 		static String username = "aguzy";
